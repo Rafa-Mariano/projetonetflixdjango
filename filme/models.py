@@ -4,9 +4,9 @@ from django.contrib.auth.models import AbstractUser
 
 # Create your models here.
 LISTA_CATEGORIAS = (
-    ("ANALISE" , "Análise"),
-    ("APRESENTACAO" , "Apresentação"),
-    ("PROGRAMACAO" , "Programação"),
+    ("TERROR" , "Terror"),
+    ("ACAO" , "Ação"),
+    ("ANIMACAO" , "Animação"),
     ("OUTROS" , "Outros")
 )
 # Criar o modelo da pagina filme
